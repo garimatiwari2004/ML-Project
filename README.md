@@ -7,13 +7,13 @@ This project focuses on **predicting student performance** based on various acad
 - **Exploratory Data Analysis (EDA)** 📊: Visualizing trends, correlations, and insights.
 - **Machine Learning Models** 🤖: Training models like **Linear Regression, Decision Trees, Random Forest, XGBoost**, and **Neural Networks**.
 - **Performance Metrics** 📈: Evaluating models using **accuracy, RMSE, R² score, and F1-score**.
-- **Deployment** 🚀: Deploying the best model using **Flask/Django API or Streamlit dashboard**.
+- **Deployment** 🚀: Deploying the best model using ** Streamlit dashboard**.
 
 ## 🛠️ Tech Stack:
 - **Python** 🐍: NumPy, Pandas, Matplotlib, Seaborn
-- **Machine Learning** 🤖: Scikit-Learn, XGBoost, TensorFlow/PyTorch (if deep learning is used)
+- **Machine Learning** 🤖: Scikit-Learn, XGBoost
 - **Model Deployment** 🌍: Flask/Django, Streamlit
-- **Data Storage** 📂: CSV, SQL, or NoSQL databases
+
 
 ## 📷 Screenshot:
 ![Dashboard Preview](image.png)
